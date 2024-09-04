@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1720969280073" clover="3.2.0">
+  <project timestamp="1720969280073" name="All files">
+    <metrics statements="33" coveredstatements="23" conditionals="6" coveredconditionals="2" methods="15" coveredmethods="6" elements="54" coveredelements="31" complexity="0" loc="33" ncloc="33" packages="3" files="7" classes="7"/>
+    <package name="components">
+      <metrics statements="10" coveredstatements="8" conditionals="4" coveredconditionals="2" methods="6" coveredmethods="3"/>
+      <file name="Header.js" path="D:\LPU\VScode\React\My_Project1\src\components\Header.js">
+        <metrics statements="9" coveredstatements="7" conditionals="4" coveredconditionals="2" methods="5" coveredmethods="2"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="6" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="37" count="0" type="cond" truecount="1" falsecount="1"/>
+      </file>
+      <file name="sum.js" path="D:\LPU\VScode\React\My_Project1\src\components\sum.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="mocks">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="dummyLogo.js" path="D:\LPU\VScode\React\My_Project1\src\mocks\dummyLogo.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="utils">
+      <metrics statements="23" coveredstatements="15" conditionals="2" coveredconditionals="0" methods="9" coveredmethods="3"/>
+      <file name="UserContext.js" path="D:\LPU\VScode\React\My_Project1\src\utils\UserContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+      </file>
+      <file name="cartSlice.js" path="D:\LPU\VScode\React\My_Project1\src\utils\cartSlice.js">
+        <metrics statements="8" coveredstatements="2" conditionals="2" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="19" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="23" count="1" type="stmt"/>
+      </file>
+      <file name="store.js" path="D:\LPU\VScode\React\My_Project1\src\utils\store.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="4" count="1" type="stmt"/>
+      </file>
+      <file name="useOnline.js" path="D:\LPU\VScode\React\My_Project1\src\utils\useOnline.js">
+        <metrics statements="13" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="3" type="stmt"/>
+        <line num="7" count="3" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="19" count="3" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

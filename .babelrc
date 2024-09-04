@@ -1,0 +1,9 @@
+{
+    // "plugins": [ ["transform-remove-console", { "exclude": [ "error", "warn"] }] ] //removes console logs 
+   "presets": [
+    ["@babel/preset-env", {"targets": {"node": "current"}}],//for import and ES6 understandable
+   ["@babel/preset-react",{"runtime":"automatic"} ]//for jsx understandable
+  
+  ],
+
+  }
