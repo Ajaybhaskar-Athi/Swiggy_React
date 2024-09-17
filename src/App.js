@@ -22,13 +22,16 @@ const App=()=>{
             email:"sanjaysaahu@gmail.com"
     });
       return (
-        <Provider store={store}>
+       <React.StrictMode>
+         <Provider store={store}>
           <UserContext.Provider value={{ user, setUser }}>
             <Header />
             <Outlet />
             <Footer />
           </UserContext.Provider>
         </Provider>
+        
+       </React.StrictMode>
       );
 }
 

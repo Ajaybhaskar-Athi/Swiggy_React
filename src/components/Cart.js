@@ -41,6 +41,7 @@ const handleRemoveCart=()=>{
     useEffect(()=>{
         // console.log("Cart Rendered ");
     },[])
+    
     return (
         <>
         <button className=" p-2 m-2 text-xll font-semibold bg-red-600 rounded-md hover:text-2xl" 
