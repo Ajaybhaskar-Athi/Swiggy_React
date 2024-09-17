@@ -7,5 +7,4 @@ parcel-cache/
 # Distribution directory inside src
 src/dist/
 
-# # normal dist
-# dist
+
